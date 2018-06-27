@@ -1,6 +1,6 @@
-# crypto-exchanges-gateway
+# crypto-horizon
 
-Your gateway to the world of crypto !
+horizon to the world of crypto !
 
 ## Disclaimer
 

@@ -1,14 +1,14 @@
 {
   "name": "crypto-exchanges-gateway",
-  "version": "1.7.1",
+  "version": "0.0.1",
   "description": "Your gateway to the crypto world",
   "main": "gateway.js",
   "scripts": {},
-  "author": "Aloysius Pendergast <aloysius.pgast@gmail.com>",
+  "author": "Leon",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aloysius-pgast/crypto-exchanges-gateway.git"
+    "url": "https://github.com/LeonGhibli/crypto-exchanges-gateway.git"
   },
   "dependencies": {
     "big.js": "^5.0.3",
